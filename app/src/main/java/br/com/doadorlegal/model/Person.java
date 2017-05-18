@@ -1,10 +1,12 @@
 package br.com.doadorlegal.model;
 
+import java.io.Serializable;
+
 /**
  * Created by Giovanne on 17/05/2017.
  */
 
-public class Person {
+public class Person implements Serializable{
     private String name;
     private String cause;
     private String bloodType;

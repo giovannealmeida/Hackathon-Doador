@@ -10,16 +10,17 @@ import android.widget.TextView;
 import java.util.List;
 
 import br.com.doadorlegal.R;
+import br.com.doadorlegal.interfaces.OnItemClickListener;
 import br.com.doadorlegal.model.Person;
 
 public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.ViewHolder> {
 
     private final List<Person> mValues;
-    private Context context;
+    private OnItemClickListener listener;
 
-    public PersonFeedAdapter(List<Person> items, Context context) {
+    public PersonFeedAdapter(List<Person> items, OnItemClickListener listener) {
         mValues = items;
-        this.context = context;
+        this.listener = listener;
     }
 
     @Override
@@ -30,7 +31,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
     }
 
     @Override
-    public void onBindViewHolder(final ViewHolder holder, int position) {
+    public void onBindViewHolder(final ViewHolder holder, final int position) {
         holder.mItem = mValues.get(position);
         holder.tvName.setText(mValues.get(position).getName());
         holder.tvBloodType.setText(mValues.get(position).getBloodType());
@@ -38,6 +39,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                listener.onClick(position);
 
             }
         });

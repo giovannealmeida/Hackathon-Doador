@@ -1,6 +1,7 @@
 package br.com.doadorlegal.fragment;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -12,12 +13,15 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.com.doadorlegal.ProfileActivity;
 import br.com.doadorlegal.R;
 import br.com.doadorlegal.adapter.PersonFeedAdapter;
+import br.com.doadorlegal.interfaces.OnItemClickListener;
 import br.com.doadorlegal.model.Person;
 
-public class PersonFeedFragment extends Fragment {
+public class PersonFeedFragment extends Fragment implements OnItemClickListener {
 
+    List<Person> list;
 
     public PersonFeedFragment() {
     }
@@ -37,13 +41,13 @@ public class PersonFeedFragment extends Fragment {
             Context context = view.getContext();
             RecyclerView recyclerView = (RecyclerView) view;
             recyclerView.setLayoutManager(new LinearLayoutManager(context));
-            recyclerView.setAdapter(new PersonFeedAdapter(getList(), getActivity()));
+            recyclerView.setAdapter(new PersonFeedAdapter(getList(), this));
         }
         return view;
     }
 
     public List<Person> getList() {
-        List<Person> list = new ArrayList<>();
+        list = new ArrayList<>();
         list.add(new Person("Homerus Lunnon","Problema renal","O-","Hemoacre"));
         list.add(new Person("Charlotte O'Collopy","Acidente","AB","Fhemeron"));
         list.add(new Person("Josey Skea","Problema renal","A+","Hemoba"));
@@ -86,4 +90,13 @@ public class PersonFeedFragment extends Fragment {
         list.add(new Person("Kriste Dumbrall","Tratamento","B-","Hemoacre"));
         return list;
     }
+
+    @Override
+    public void onClick(int position) {
+        Person p = list.get(position);
+        Intent i = new Intent(getActivity(), ProfileActivity.class);
+        i.putExtra("Person",p);
+        startActivity(i);
+    }
+
 }
