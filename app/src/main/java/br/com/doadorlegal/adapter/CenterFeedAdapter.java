@@ -10,17 +10,21 @@ import android.widget.TextView;
 import java.util.List;
 
 import br.com.doadorlegal.R;
+import br.com.doadorlegal.fragment.CenterFeedFragment;
+import br.com.doadorlegal.interfaces.OnItemClickListener;
 import br.com.doadorlegal.model.Center;
 
 public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.ViewHolder> {
 
     private final List<Center> mValues;
-    private Context context;
+    private OnItemClickListener listener;
 
-    public CenterFeedAdapter(List<Center> items, Context context) {
+    public CenterFeedAdapter(List<Center> items, OnItemClickListener listener) {
         mValues = items;
-        this.context = context;
+        this.listener = listener;
     }
+
+
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -30,7 +34,7 @@ public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.Vi
     }
 
     @Override
-    public void onBindViewHolder(final ViewHolder holder, int position) {
+    public void onBindViewHolder(final ViewHolder holder, final int position) {
         if(mValues == null){
             return;
         }
@@ -42,7 +46,7 @@ public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.Vi
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                listener.onClick(position);
             }
         });
     }

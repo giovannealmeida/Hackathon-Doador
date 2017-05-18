@@ -1,6 +1,7 @@
 package br.com.doadorlegal.fragment;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,12 +11,18 @@ import android.view.View;
 import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
+
+import br.com.doadorlegal.CenterActivity;
+import br.com.doadorlegal.ProfileActivity;
 import br.com.doadorlegal.R;
 import br.com.doadorlegal.adapter.CenterFeedAdapter;
+import br.com.doadorlegal.interfaces.OnItemClickListener;
 import br.com.doadorlegal.model.Center;
+import br.com.doadorlegal.model.Person;
 
-public class CenterFeedFragment extends Fragment {
+public class CenterFeedFragment extends Fragment implements OnItemClickListener {
 
+    List<Center> list;
 
     public CenterFeedFragment() {
     }
@@ -35,14 +42,13 @@ public class CenterFeedFragment extends Fragment {
             Context context = view.getContext();
             RecyclerView recyclerView = (RecyclerView) view;
             recyclerView.setLayoutManager(new LinearLayoutManager(context));
-
-            recyclerView.setAdapter(new CenterFeedAdapter(getList(), getActivity()));
+            recyclerView.setAdapter(new CenterFeedAdapter(getList(), this));
         }
         return view;
     }
 
     private List<Center> getList() {
-        List<Center> list = new ArrayList<>();
+        list = new ArrayList<>();
         list.add(new Center("Hemoacre","Deus seja louvado","A+,AB e O-","Av. Getúlio Vargas, 2787 - Vila Ivonete - Rio Branco, Acre - Cep:69914-500","08:00 - 16:00","Seg. a Sex."));
         list.add(new Center("Hemoap","Deus seja louvado","AB e O-","Av Fab, 0 - Central - Macapa, Amapá - Cep:68900-073","08:00 - 16:00","Seg. a Sex."));
         list.add(new Center("Fhemoam","Deus seja louvado","A+,AB e O-","Av Constantino Nery, 4397 - Chapada - Manaus, Amazonas - Cep:69050-000","08:00 - 16:00","Seg. a Sex."));
@@ -58,5 +64,13 @@ public class CenterFeedFragment extends Fragment {
         list.add(new Center("Hemoba","Deus seja louvado","A+,AB e O-","Ld Do Hospital Geral, 0 2º Andar - Brotas - Salvador, Bahia - Cep:40286-240","08:00 - 16:00","Seg. a Sex."));
         list.add(new Center("Hemoce","Deus seja louvado","A+,AB e O-","R Raimundo Facanha, 3390 - Rodolfo Teofilo - Fortaleza, Ceará - Cep:60431-000","08:00 - 16:00","Seg. a Sex."));
         return list;
+    }
+
+    @Override
+    public void onClick(int position) {
+        Center c = list.get(position);
+        Intent i = new Intent(getActivity(), CenterActivity.class);
+        i.putExtra("Center",c);
+        startActivity(i);
     }
 }

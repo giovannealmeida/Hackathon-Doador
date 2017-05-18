@@ -1,10 +1,12 @@
 package br.com.doadorlegal.model;
 
+import java.io.Serializable;
+
 /**
  * Created by Giovanne on 17/05/2017.
  */
 
-public class Center {
+public class Center implements Serializable{
     private String name;
     private String description;
     private String bloodType;
