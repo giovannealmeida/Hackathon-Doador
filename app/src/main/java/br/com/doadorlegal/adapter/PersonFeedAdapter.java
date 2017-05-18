@@ -1,4 +1,4 @@
-package br.com.doadorlegal.adapters;
+package br.com.doadorlegal.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -10,14 +10,14 @@ import android.widget.TextView;
 import java.util.List;
 
 import br.com.doadorlegal.R;
-import br.com.doadorlegal.fragments.dummy.DummyContent.DummyItem;
+import br.com.doadorlegal.model.Person;
 
-public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.ViewHolder> {
+public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.ViewHolder> {
 
-    private final List<DummyItem> mValues;
+    private final List<Person> mValues;
     private Context context;
 
-    public CenterFeedAdapter(List<DummyItem> items, Context context) {
+    public PersonFeedAdapter(List<Person> items, Context context) {
         mValues = items;
         this.context = context;
     }
@@ -25,15 +25,15 @@ public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.Vi
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.item_center_feed, parent, false);
+                .inflate(R.layout.item_person_feed, parent, false);
         return new ViewHolder(view);
     }
 
     @Override
     public void onBindViewHolder(final ViewHolder holder, int position) {
         holder.mItem = mValues.get(position);
-        holder.mIdView.setText(mValues.get(position).id);
-        holder.mContentView.setText(mValues.get(position).content);
+        holder.tvName.setText(mValues.get(position).getName());
+        holder.tvBloodType.setText(mValues.get(position).getBloodType());
 
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -50,20 +50,16 @@ public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.Vi
 
     class ViewHolder extends RecyclerView.ViewHolder {
         final View mView;
-        final TextView mIdView;
-        final TextView mContentView;
-        DummyItem mItem;
+        final TextView tvName;
+        final TextView tvBloodType;
+        Person mItem;
 
         ViewHolder(View view) {
             super(view);
             mView = view;
-            mIdView = (TextView) view.findViewById(R.id.tvId);
-            mContentView = (TextView) view.findViewById(R.id.tvContent);
+            tvName = (TextView) view.findViewById(R.id.tvName);
+            tvBloodType = (TextView) view.findViewById(R.id.tvBloodType);
         }
 
-        @Override
-        public String toString() {
-            return super.toString() + " '" + mContentView.getText() + "'";
-        }
     }
 }

@@ -1,4 +1,4 @@
-package br.com.doadorlegal.adapters;
+package br.com.doadorlegal.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -10,14 +10,14 @@ import android.widget.TextView;
 import java.util.List;
 
 import br.com.doadorlegal.R;
-import br.com.doadorlegal.fragments.dummy.DummyContent.DummyItem;
+import br.com.doadorlegal.model.Center;
 
-public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.ViewHolder> {
+public class CenterFeedAdapter extends RecyclerView.Adapter<CenterFeedAdapter.ViewHolder> {
 
-    private final List<DummyItem> mValues;
+    private final List<Center> mValues;
     private Context context;
 
-    public PersonFeedAdapter(List<DummyItem> items, Context context) {
+    public CenterFeedAdapter(List<Center> items, Context context) {
         mValues = items;
         this.context = context;
     }
@@ -25,15 +25,19 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.item_person_feed, parent, false);
+                .inflate(R.layout.item_center_feed, parent, false);
         return new ViewHolder(view);
     }
 
     @Override
     public void onBindViewHolder(final ViewHolder holder, int position) {
+        if(mValues == null){
+            return;
+        }
         holder.mItem = mValues.get(position);
-        holder.mIdView.setText(mValues.get(position).id);
-        holder.mContentView.setText(mValues.get(position).content);
+        holder.tvName.setText(mValues.get(position).getName());
+        holder.tvLocation.setText(mValues.get(position).getLocation());
+        holder.tvBloodType.setText(mValues.get(position).getBloodType());
 
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -50,20 +54,17 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
 
     class ViewHolder extends RecyclerView.ViewHolder {
         final View mView;
-        final TextView mIdView;
-        final TextView mContentView;
-        DummyItem mItem;
+        final TextView tvName;
+        final TextView tvLocation;
+        final TextView tvBloodType;
+        Center mItem;
 
         ViewHolder(View view) {
             super(view);
             mView = view;
-            mIdView = (TextView) view.findViewById(R.id.tvId);
-            mContentView = (TextView) view.findViewById(R.id.tvContent);
-        }
-
-        @Override
-        public String toString() {
-            return super.toString() + " '" + mContentView.getText() + "'";
+            tvName = (TextView) view.findViewById(R.id.tvName);
+            tvLocation = (TextView) view.findViewById(R.id.tvLocation);
+            tvBloodType = (TextView) view.findViewById(R.id.tvBloodType);
         }
     }
 }

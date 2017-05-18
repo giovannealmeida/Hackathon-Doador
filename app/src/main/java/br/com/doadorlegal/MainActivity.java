@@ -1,7 +1,6 @@
 package br.com.doadorlegal;
 
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
@@ -19,8 +18,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import br.com.doadorlegal.fragments.CenterFeedFragment;
-import br.com.doadorlegal.fragments.PersonFeedFragment;
+import br.com.doadorlegal.fragment.CenterFeedFragment;
+import br.com.doadorlegal.fragment.PersonFeedFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -106,13 +105,19 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.nav_feed) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_map) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_cartilha) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_account_settings) {
+
+        } else if (id == R.id.nav_my_solicitations) {
+
+        } else if (id == R.id.nav_my_donations) {
+
+        } else if (id == R.id.nav_my_schedules) {
 
         } else if (id == R.id.nav_share) {
 

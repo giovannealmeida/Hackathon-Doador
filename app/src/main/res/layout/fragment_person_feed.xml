@@ -9,5 +9,5 @@
     android:layout_marginLeft="16dp"
     android:layout_marginRight="16dp"
     app:layoutManager="LinearLayoutManager"
-    tools:context="br.com.doadorlegal.fragments.PersonFeedFragment"
+    tools:context="br.com.doadorlegal.fragment.PersonFeedFragment"
     tools:listitem="@layout/item_person_feed" />
