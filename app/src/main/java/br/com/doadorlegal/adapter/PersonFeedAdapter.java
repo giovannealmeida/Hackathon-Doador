@@ -4,6 +4,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
@@ -42,6 +43,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
 
             }
         });
+        holder.ivImage.setImageResource(mValues.get(position).getPic());
     }
 
     @Override
@@ -54,6 +56,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
         final TextView tvName;
         final TextView tvBloodType;
         final TextView tvLocation;
+        final ImageView ivImage;
         Person mItem;
 
         ViewHolder(View view) {
@@ -62,6 +65,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
             tvName = (TextView) view.findViewById(R.id.tvName);
             tvBloodType = (TextView) view.findViewById(R.id.tvBloodType);
             tvLocation = (TextView) view.findViewById(R.id.tvLocation);
+            ivImage = (ImageView) view.findViewById(R.id.ivImage);
         }
 
     }

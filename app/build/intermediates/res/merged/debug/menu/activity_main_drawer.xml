@@ -13,7 +13,7 @@
         <item
             android:id="@+id/nav_cartilha"
             android:icon="@drawable/ic_description"
-            android:title="Cartilha" />
+            android:title="Posso doar?" />
         <item
             android:id="@+id/nav_my_solicitations"
             android:icon="@drawable/ic_blood"

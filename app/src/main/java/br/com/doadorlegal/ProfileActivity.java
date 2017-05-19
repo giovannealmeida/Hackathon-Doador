@@ -14,6 +14,8 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import br.com.doadorlegal.model.Person;
@@ -42,6 +44,9 @@ public class ProfileActivity extends AppCompatActivity {
 
         TextView tvLocation = (TextView) findViewById(R.id.tvPlace);
         tvLocation.setText(p.getLocation());
+
+        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        imageView.setImageResource(p.getPic());
 
         final AppCompatButton btShare = (AppCompatButton) findViewById(R.id.btShare);
         btShare.setOnClickListener(new View.OnClickListener() {

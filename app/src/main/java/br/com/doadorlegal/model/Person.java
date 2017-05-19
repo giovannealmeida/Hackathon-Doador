@@ -11,12 +11,14 @@ public class Person implements Serializable{
     private String cause;
     private String bloodType;
     private String location;
+    private int pic;
 
-    public Person(String name, String cause, String bloodType, String location) {
+    public Person(String name, String cause, String bloodType, String location, int pic) {
         this.name = name;
         this.cause = cause;
         this.bloodType = bloodType;
         this.location = location;
+        this.pic = pic;
     }
 
     public String getName() {
@@ -33,5 +35,9 @@ public class Person implements Serializable{
 
     public String getLocation() {
         return location;
+    }
+
+    public int getPic() {
+        return pic;
     }
 }

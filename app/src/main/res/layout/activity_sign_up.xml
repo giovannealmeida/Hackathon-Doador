@@ -1,32 +1,77 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <EditText android:hint="Nome"
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id = "@+id/etName"/>
+        android:layout_height="wrap_content">
 
-    <EditText android:hint="Tipo Sanguíneo"
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:hint="Nome"
+            android:inputType="textCapWords"
+            android:text="Diego Santos" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id = "@+id/etBloodType"/>
+        android:layout_height="wrap_content">
 
-    <!--<DatePicker android:hint="Data de Nascimento"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id = "@+id/etBorn"/>-->
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:hint="Tipo sanguíneo"
+            android:inputType="textCapWords"
+            android:text="AB+" />
+    </android.support.design.widget.TextInputLayout>
 
-    <EditText android:hint="Endereço"
+
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id = "@+id/etAddress"/>
+        android:layout_height="wrap_content">
 
-    <Button
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:hint="Local"
+            android:inputType="textCapWords"
+            android:text="" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Salvar"
-        android:id = "@+id/btSave"/>
+        android:layout_height="wrap_content">
 
+        <android.support.design.widget.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:hint="Causa"
+            android:lines="3"
+            android:maxLines="3"
+            android:text="" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btSolicitate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@drawable/ic_blood"
+        android:drawablePadding="8dp"
+        android:drawableTint="@android:color/white"
+        android:text="Solicitar doação"
+        android:textColor="@android:color/white"
+        app:backgroundTint="@color/colorAccent" />
 </LinearLayout>
