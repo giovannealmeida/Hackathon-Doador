@@ -14,10 +14,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
-
+import br.com.doadorlegal.fragment.MapFragment;
 import br.com.doadorlegal.fragment.ChartFragment;
-import br.com.doadorlegal.fragment.MainFragment;
+import br.com.doadorlegal.fragment.PersonFeedFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -51,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        showFragment(MainFragment.newInstance());
+        showFragment(PersonFeedFragment.newInstance());
         navigationView.setCheckedItem(0);
     }
 
@@ -95,9 +94,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         if (id == R.id.nav_feed) {
             getSupportActionBar().setTitle("Feed");
-            showFragment(MainFragment.newInstance());
+            showFragment(PersonFeedFragment.newInstance());
         } else if (id == R.id.nav_map) {
-
+            getSupportActionBar().setTitle("Mapa");
+//            showFragment(MapFragment.newInstance());
+            showFragment(new MapFragment());
         } else if (id == R.id.nav_cartilha) {
             getSupportActionBar().setTitle("Cartilha");
             showFragment(ChartFragment.newInstance());

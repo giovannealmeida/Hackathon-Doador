@@ -6,8 +6,6 @@
     android:name="br.com.doadorlegal.fragments.PersonFeedFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginLeft="16dp"
-    android:layout_marginRight="16dp"
     app:layoutManager="LinearLayoutManager"
     tools:context="br.com.doadorlegal.fragment.PersonFeedFragment"
     tools:listitem="@layout/item_person_feed" />
