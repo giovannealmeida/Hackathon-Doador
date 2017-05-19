@@ -1,3 +1,4 @@
+
 package br.com.doadorlegal;
 
 import android.support.v7.app.AppCompatActivity;
@@ -14,6 +15,8 @@ public class ProfileActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setTitle("Paciente");
+
         Person p = (Person) getIntent().getSerializableExtra("Person");
 
         TextView tvName = (TextView) findViewById(R.id.tvName);

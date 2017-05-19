@@ -54,6 +54,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
         final View mView;
         final TextView tvName;
         final TextView tvBloodType;
+        final TextView tvLocation;
         Person mItem;
 
         ViewHolder(View view) {
@@ -61,6 +62,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
             mView = view;
             tvName = (TextView) view.findViewById(R.id.tvName);
             tvBloodType = (TextView) view.findViewById(R.id.tvBloodType);
+            tvLocation = (TextView) view.findViewById(R.id.tvLocation);
         }
 
     }
