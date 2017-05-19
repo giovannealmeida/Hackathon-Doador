@@ -3,7 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="br.com.doadorlegal.fragment.MainFragment">
+    tools:context="br.com.doadorlegal.fragment.MainFragment"
+    android:layout_marginBottom="15sp">
 
     <WebView
         android:id="@+id/wvInfos"

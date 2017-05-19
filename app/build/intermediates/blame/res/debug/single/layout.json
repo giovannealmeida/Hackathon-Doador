@@ -8,12 +8,12 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -210,6 +210,10 @@
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map.xml",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\layout\\fragment_map.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",

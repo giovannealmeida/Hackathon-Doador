@@ -21,6 +21,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\pedre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_07d832073cd8fbcc1bb98b7b38d3fa24e51c2a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\19ade8807a4d412e2a599a5fdb268d88649099eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_a943feeaf5c74b61cba08e6b3b42168865d7076a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\pedre\.android\build-cache\0252d9533405237f8ed3f21dc760b6783869e130\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\4b2c4b1799c6f19c09cc48b748611d24a9715fcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_abb0bbe0baccdbf9244f89e7685661cb3af806f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\pedre\.android\build-cache\e4ae864002a5cffffbfef4e575f0d2008f0fa613\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,57 +75,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_daec550cef4dae2bea5627bba08bff9e81251daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\pedre\.android\build-cache\e66623bb5f3dee74fd06c39c5ab7c0028c281855\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
         <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_fa8895f53593c1c266239f9804490126c7eff07f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\pedre\.android\build-cache\4cb3562ea3eae8c07c7b842921e839e05f224a5b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_ac78101c0421add9867ceac56a953abc1e31f916.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\pedre\.android\build-cache\dfce895a681cab5dde17899834af7406fbd2a709\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_09a3b778f6a1252bd2066ed56bc9a797a6c0f8b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\pedre\.android\build-cache\8f86b6bda2117c49de6ab6026096ecab369ec6ab\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_7cc67455777258bd262fe6fd41092a1c2c905add.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\pedre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_07d832073cd8fbcc1bb98b7b38d3fa24e51c2a80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\pedre\.android\build-cache\4b2c4b1799c6f19c09cc48b748611d24a9715fcd\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_abb0bbe0baccdbf9244f89e7685661cb3af806f0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,12 +111,57 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_6d1a13e8da4b4d91a440c35d9c97f0676b161d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\4cb3562ea3eae8c07c7b842921e839e05f224a5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_ac78101c0421add9867ceac56a953abc1e31f916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_105efa39c8514ae0c1046bf37336af89a9c004a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\dfce895a681cab5dde17899834af7406fbd2a709\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_09a3b778f6a1252bd2066ed56bc9a797a6c0f8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\pedre\.android\build-cache\49ca3045c65dcf7f74329746d26f013e955a8f59\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
         <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_be7e66001a4760359cb4fec3a7c652f6b9c63e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pedre\.android\build-cache\8f86b6bda2117c49de6ab6026096ecab369ec6ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Documents\hackathon\doador-legal\app\build\intermediates\pre-dexed\debug\classes_7cc67455777258bd262fe6fd41092a1c2c905add.jar" />
     </item>
     <item
         is-multidex="false"

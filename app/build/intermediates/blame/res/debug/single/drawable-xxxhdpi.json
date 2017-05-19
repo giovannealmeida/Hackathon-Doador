@@ -1,7 +1,15 @@
 [
     {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_blood.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_blood.png"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_event.png",
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_event.png"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cause.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cause.png"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add.png",
@@ -10,5 +18,9 @@
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account_circle.png",
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_hospital_building.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hospital_building.png"
     }
 ]
