@@ -8,6 +8,30 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_description.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_share.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_location.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cause.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_thumb_up.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_thumb_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_blood.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_blood.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_cause.xml",
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cause.xml"
     },
@@ -20,7 +44,35 @@
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_circle.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_time.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_time.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_hospital_building.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hospital_building.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_map.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_account_circle.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_list.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     }
 ]

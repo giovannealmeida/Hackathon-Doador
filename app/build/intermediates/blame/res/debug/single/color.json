@@ -4,40 +4,28 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\2c38343eabf45de3d9435f311710900ba5f31503\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
@@ -52,8 +40,108 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\aa36c0efad4e3bb889e7e8654069cb3743417fe7\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\aa36c0efad4e3bb889e7e8654069cb3743417fe7\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\2c38343eabf45de3d9435f311710900ba5f31503\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\aa36c0efad4e3bb889e7e8654069cb3743417fe7\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
@@ -64,16 +152,24 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\2c38343eabf45de3d9435f311710900ba5f31503\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -88,12 +184,16 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",

@@ -1,19 +1,63 @@
 [
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",

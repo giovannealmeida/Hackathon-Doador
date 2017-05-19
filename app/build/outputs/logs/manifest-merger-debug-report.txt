@@ -1,161 +1,161 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:10:5-79
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:12:5-45:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pedre\.android\build-cache\dfce895a681cab5dde17899834af7406fbd2a709\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\e4ae864002a5cffffbfef4e575f0d2008f0fa613\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\49ca3045c65dcf7f74329746d26f013e955a8f59\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\pedre\.android\build-cache\0252d9533405237f8ed3f21dc760b6783869e130\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\pedre\.android\build-cache\26b2cefc99b8119d6cfa1bddf4ddb2d8da397b12\output\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\pedre\.android\build-cache\19ade8807a4d412e2a599a5fdb268d88649099eb\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pedre\.android\build-cache\4b2c4b1799c6f19c09cc48b748611d24a9715fcd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pedre\.android\build-cache\e66623bb5f3dee74fd06c39c5ab7c0028c281855\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pedre\.android\build-cache\851336ab23c890fb0712d2446f8a19e94ec7cfed\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pedre\.android\build-cache\1154c42ba56925875bc00e9cbebac04eda3812af\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pedre\.android\build-cache\8f86b6bda2117c49de6ab6026096ecab369ec6ab\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pedre\.android\build-cache\4cb3562ea3eae8c07c7b842921e839e05f224a5b\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:12:5-45:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Giovanne\.android\build-cache\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\86d487bfc148846305e34c39661eccec7ae979a1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\e5b383048aed7800035964af7e3f5ad6e8bc3ba2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Giovanne\.android\build-cache\d80f8564f4d2c72f69232719169506d872bbd626\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\Giovanne\.android\build-cache\b06a3cbec9b5e3cc70b7021981a88753aa1b0d1d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Giovanne\.android\build-cache\8daca176772f765150a732bfe9012813105c368a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Giovanne\.android\build-cache\a85c0016fe3e70b27814670c47f84cb0ec1a66ea\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Giovanne\.android\build-cache\4e922e6cae5b3a61c62789fd317ab931ab21bb94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Giovanne\.android\build-cache\d5e7db280f912c33df40efae44e41dc5486f8667\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\374248b5befff486e0978a3237931d0df97e4056\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Giovanne\.android\build-cache\613ece4d639024e514845e8f6440bb422a31612a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Giovanne\.android\build-cache\7599629df433a0397a8188c9d42ca1c79107d693\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\01964cabad8e53caed7e3c96ed7cb6cc2fff4abd\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:16:9-54
 	android:allowBackup
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:18:9-40
 activity#br.com.doadorlegal.MainActivity
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:19:9-28:20
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:26:27-74
 activity#br.com.doadorlegal.ScheduleActivity
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:29:9-54
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:29:19-51
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:29:19-51
 activity#br.com.doadorlegal.ProfileActivity
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:30:9-53
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:30:9-53
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:30:19-50
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:30:19-50
 activity#br.com.doadorlegal.CenterActivity
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:31:9-52
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:31:9-52
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:31:19-49
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:31:19-49
 activity#br.com.doadorlegal.SignUpActivity
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:32:9-52
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:32:9-52
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:32:19-49
 meta-data#com.google.android.geo.API_KEY
-ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:41:9-43:55
+ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:41:9-43:55
 	android:value
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:43:13-52
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:43:13-52
 	android:name
-		ADDED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml:42:13-58
+		ADDED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml:42:13-58
 uses-sdk
-INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pedre\.android\build-cache\dfce895a681cab5dde17899834af7406fbd2a709\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\e4ae864002a5cffffbfef4e575f0d2008f0fa613\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\49ca3045c65dcf7f74329746d26f013e955a8f59\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\pedre\.android\build-cache\0252d9533405237f8ed3f21dc760b6783869e130\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\pedre\.android\build-cache\d7655a5dfe7bc6234827cbcbb01f1d3ede36887b\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\pedre\.android\build-cache\26b2cefc99b8119d6cfa1bddf4ddb2d8da397b12\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\pedre\.android\build-cache\19ade8807a4d412e2a599a5fdb268d88649099eb\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pedre\.android\build-cache\4b2c4b1799c6f19c09cc48b748611d24a9715fcd\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pedre\.android\build-cache\e66623bb5f3dee74fd06c39c5ab7c0028c281855\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pedre\.android\build-cache\851336ab23c890fb0712d2446f8a19e94ec7cfed\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pedre\.android\build-cache\1154c42ba56925875bc00e9cbebac04eda3812af\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pedre\.android\build-cache\8f86b6bda2117c49de6ab6026096ecab369ec6ab\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pedre\.android\build-cache\4cb3562ea3eae8c07c7b842921e839e05f224a5b\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Giovanne\.android\build-cache\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\86d487bfc148846305e34c39661eccec7ae979a1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\e5b383048aed7800035964af7e3f5ad6e8bc3ba2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Giovanne\.android\build-cache\d80f8564f4d2c72f69232719169506d872bbd626\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Giovanne\.android\build-cache\33dd5cea14377f3ae78bd2d87827a0fc1162db90\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\Giovanne\.android\build-cache\b06a3cbec9b5e3cc70b7021981a88753aa1b0d1d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Giovanne\.android\build-cache\8daca176772f765150a732bfe9012813105c368a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Giovanne\.android\build-cache\a85c0016fe3e70b27814670c47f84cb0ec1a66ea\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Giovanne\.android\build-cache\4e922e6cae5b3a61c62789fd317ab931ab21bb94\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Giovanne\.android\build-cache\d5e7db280f912c33df40efae44e41dc5486f8667\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\374248b5befff486e0978a3237931d0df97e4056\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Giovanne\.android\build-cache\613ece4d639024e514845e8f6440bb422a31612a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Giovanne\.android\build-cache\7599629df433a0397a8188c9d42ca1c79107d693\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\01964cabad8e53caed7e3c96ed7cb6cc2fff4abd\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Documents\hackathon\doador-legal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\pedre\.android\build-cache\dfce895a681cab5dde17899834af7406fbd2a709\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\e4ae864002a5cffffbfef4e575f0d2008f0fa613\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\pedre\.android\build-cache\49ca3045c65dcf7f74329746d26f013e955a8f59\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\pedre\.android\build-cache\0252d9533405237f8ed3f21dc760b6783869e130\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\pedre\.android\build-cache\d7655a5dfe7bc6234827cbcbb01f1d3ede36887b\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\pedre\.android\build-cache\4b2c4b1799c6f19c09cc48b748611d24a9715fcd\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\pedre\.android\build-cache\e66623bb5f3dee74fd06c39c5ab7c0028c281855\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\pedre\.android\build-cache\851336ab23c890fb0712d2446f8a19e94ec7cfed\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\pedre\.android\build-cache\1154c42ba56925875bc00e9cbebac04eda3812af\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\pedre\.android\build-cache\8f86b6bda2117c49de6ab6026096ecab369ec6ab\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\pedre\.android\build-cache\4cb3562ea3eae8c07c7b842921e839e05f224a5b\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Giovanne\.android\build-cache\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\86d487bfc148846305e34c39661eccec7ae979a1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Giovanne\.android\build-cache\e5b383048aed7800035964af7e3f5ad6e8bc3ba2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Giovanne\.android\build-cache\d80f8564f4d2c72f69232719169506d872bbd626\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Giovanne\.android\build-cache\33dd5cea14377f3ae78bd2d87827a0fc1162db90\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Giovanne\.android\build-cache\4e922e6cae5b3a61c62789fd317ab931ab21bb94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Giovanne\.android\build-cache\d5e7db280f912c33df40efae44e41dc5486f8667\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\374248b5befff486e0978a3237931d0df97e4056\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Giovanne\.android\build-cache\613ece4d639024e514845e8f6440bb422a31612a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Giovanne\.android\build-cache\7599629df433a0397a8188c9d42ca1c79107d693\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Giovanne\.android\build-cache\01964cabad8e53caed7e3c96ed7cb6cc2fff4abd\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\pedre\.android\build-cache\9645505192a8e69f90b7eadda23fcd7bd678cf40\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Giovanne\.android\build-cache\76338db44bb11306931c5bb583f38db6dfe564d5\output\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:19:22-76
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:19:22-76
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:20:5-66
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:20:22-64
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:20:22-64
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\pedre\.android\build-cache\6b58559d5113fc8050a3a263a5695824c2c6593d\output\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Giovanne\.android\build-cache\93011b2928ea644a9ede861722db46b33bd21f83\output\AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\pedre\.android\build-cache\2c38343eabf45de3d9435f311710900ba5f31503\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Giovanne\.android\build-cache\aa36c0efad4e3bb889e7e8654069cb3743417fe7\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Giovanne\.android\build-cache\a85c0016fe3e70b27814670c47f84cb0ec1a66ea\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Giovanne\.android\build-cache\a85c0016fe3e70b27814670c47f84cb0ec1a66ea\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\pedre\.android\build-cache\01059febef8771b06f69bbc04f22bec5cd6e20f6\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Giovanne\.android\build-cache\a85c0016fe3e70b27814670c47f84cb0ec1a66ea\output\AndroidManifest.xml:20:20-65

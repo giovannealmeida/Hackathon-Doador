@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

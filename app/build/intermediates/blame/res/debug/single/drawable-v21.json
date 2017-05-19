@@ -1,9 +1,5 @@
 [
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
@@ -12,12 +8,20 @@
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
@@ -28,12 +32,56 @@
         "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
-    },
-    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\424bb8f646bdb0b75aa2a02e6e55ede77fc50b25\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\pedre\\.android\\build-cache\\dfce895a681cab5dde17899834af7406fbd2a709\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
@@ -52,7 +100,15 @@
         "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     }
 ]

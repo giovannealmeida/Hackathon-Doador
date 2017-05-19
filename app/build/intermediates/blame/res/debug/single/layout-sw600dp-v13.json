@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Giovanne\\Documents\\AndroidStudioProjects\\DoadorLegal\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Giovanne\\.android\\build-cache\\76338db44bb11306931c5bb583f38db6dfe564d5\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\pedre\\.android\\build-cache\\9645505192a8e69f90b7eadda23fcd7bd678cf40\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

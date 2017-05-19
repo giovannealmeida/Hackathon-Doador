@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Documents\hackathon\doador-legal\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\Documents\hackathon\doador-legal\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Giovanne\Documents\AndroidStudioProjects\DoadorLegal\app\src\debug\jniLibs"/></dataSet></merger>

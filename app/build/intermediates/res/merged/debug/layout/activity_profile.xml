@@ -1,96 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="@dimen/activity_horizontal_margin"
     tools:context="br.com.doadorlegal.ProfileActivity">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_gravity="center_horizontal"
-        android:src="@drawable/ic_account_circle" />
+    <LinearLayout
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/tvName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Nome"
-        android:textColor="@android:color/black"
-        android:textSize="18sp" />
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/ic_account_circle" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:drawableLeft="@drawable/ic_blood"
-        android:drawablePadding="4dp"
-        android:gravity="center"
-        android:text="Tipo Sanguíneo"
-        android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Nome"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
 
-    <TextView
-        android:id="@+id/tvBloodType"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Tipo Sanguíneo"
-        android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_blood"
+            android:drawablePadding="4dp"
+            android:gravity="center"
+            android:text="Tipo Sanguíneo"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:drawableLeft="@drawable/ic_cause"
-        android:drawablePadding="4dp"
-        android:gravity="center"
-        android:text="Causa"
-        android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        <TextView
+            android:id="@+id/tvBloodType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Tipo Sanguíneo"
+            android:textSize="20sp" />
 
-    <TextView
-        android:id="@+id/tvCause"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Causa"
-        android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_cause"
+            android:drawablePadding="4dp"
+            android:gravity="center"
+            android:text="Causa"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tvCause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Causa"
+            android:textSize="20sp" />
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:drawableLeft="@drawable/ic_hospital_building"
-        android:drawablePadding="4dp"
-        android:gravity="center"
-        android:text="Local"
-        android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_hospital_building"
+            android:drawablePadding="4dp"
+            android:gravity="center"
+            android:text="Local"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
 
-    <TextView
-        android:id="@+id/tvPlace"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Local"
-        android:textSize="20sp" />
+        <TextView
+            android:id="@+id/tvPlace"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Local"
+            android:textSize="20sp" />
 
-    <android.support.v7.widget.AppCompatButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:drawableLeft="@drawable/ic_blood"
-        android:drawablePadding="8dp"
-        android:drawableTint="@android:color/white"
-        android:text="Agendar doação"
-        android:textColor="@android:color/white"
-        app:backgroundTint="@color/colorAccent" />
-</LinearLayout>
+        <android.support.v7.widget.AppCompatButton
+            android:layout_width="200dp"
+            android:id="@+id/btSolicitate"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_blood"
+            android:drawablePadding="8dp"
+            android:drawableTint="@android:color/white"
+            android:text="Agendar doação"
+            android:textColor="@android:color/white"
+            app:backgroundTint="@color/colorAccent" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btShare"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_share"
+            android:drawablePadding="8dp"
+            android:drawableTint="@android:color/white"
+            android:text="Compartilhar"
+            android:textColor="@android:color/white"
+            app:backgroundTint="@color/colorAccent" />
+    </LinearLayout>
+</ScrollView>

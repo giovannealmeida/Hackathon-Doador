@@ -13,14 +13,14 @@
         <item
             android:id="@+id/nav_cartilha"
             android:icon="@drawable/ic_description"
-            android:title="Cartilha" />
+            android:title="Posso doar?" />
         <item
             android:id="@+id/nav_my_solicitations"
             android:icon="@drawable/ic_blood"
-            android:title="Minhas doações" />
+            android:title="Doações solicitadas" />
         <item
             android:id="@+id/nav_my_donations"
-            android:icon="@drawable/ic_blood"
+            android:icon="@drawable/ic_thumb_up"
             android:title="Minhas doações" />
         <item
             android:id="@+id/nav_account_settings"

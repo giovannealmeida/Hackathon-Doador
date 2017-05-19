@@ -14,6 +14,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+
+import br.com.doadorlegal.fragment.MyDonationsFragment;
 import br.com.doadorlegal.fragment.MapFragment;
 import br.com.doadorlegal.fragment.ChartFragment;
 import br.com.doadorlegal.fragment.PersonFeedFragment;
@@ -107,7 +109,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         } else if (id == R.id.nav_my_solicitations) {
 
         } else if (id == R.id.nav_my_donations) {
-
+            getSupportActionBar().setTitle("Minhas doações");
+            showFragment(MyDonationsFragment.newInstance());
 //        } else if (id == R.id.nav_share) {
 //
 //        } else if (id == R.id.nav_send) {

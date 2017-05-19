@@ -1,6 +1,5 @@
 package br.com.doadorlegal.adapter;
 
-import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -35,7 +34,7 @@ public class PersonFeedAdapter extends RecyclerView.Adapter<PersonFeedAdapter.Vi
         holder.mItem = mValues.get(position);
         holder.tvName.setText(mValues.get(position).getName());
         holder.tvBloodType.setText(mValues.get(position).getBloodType());
-
+        holder.tvLocation.setText(mValues.get(position).getLocation());
         holder.mView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
