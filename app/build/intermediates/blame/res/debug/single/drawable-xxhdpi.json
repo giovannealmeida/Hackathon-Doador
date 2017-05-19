@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_event.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\drawable-xxhdpi\\ic_event.png"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_account_circle.png",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account_circle.png"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_feed"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Feed" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Map" />
+        <item
+            android:id="@+id/nav_cartilha"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Cartilha" />
+        <item
+            android:id="@+id/nav_my_solicitations"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Minhas doações" />
+        <item
+            android:id="@+id/nav_my_donations"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Minhas doações" />
+        <item
+            android:id="@+id/nav_my_schedules"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Minhas doações" />
+        <item
+            android:id="@+id/nav_account_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Configurações" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

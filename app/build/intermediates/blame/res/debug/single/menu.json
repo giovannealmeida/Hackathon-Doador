@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\Documents\\hackathon\\doador-legal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "F:\\Documents\\hackathon\\doador-legal\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
