@@ -49,10 +49,10 @@ public class PersonFeedFragment extends Fragment implements OnItemClickListener 
     public List<Person> getList() {
         list = new ArrayList<>();
         list.add(new Person("Homerus Lunnon","Problema renal","O-","Hemoacre",R.drawable.pic1));
-        list.add(new Person("Charlotte O'Collopy","Acidente","AB","Fhemeron",R.drawable.pic2));
+        list.add(new Person("Charlotte O'Collopy","Acidente","AB","Fhemeron",R.drawable.pic5));
         list.add(new Person("Josey Skea","Problema renal","A+","Hemoba",R.drawable.pic3));
-        list.add(new Person("Annis Campion","Acidente","AB-","Fhemeron",R.drawable.pic4));
-        list.add(new Person("Monroe Colson","Acidente","AB-","Hemoacre",R.drawable.pic5));
+        list.add(new Person("Annis Campion","Acidente","AB-","Fhemeron",R.drawable.pic12));
+        list.add(new Person("Monroe Colson","Acidente","AB-","Hemoacre",R.drawable.pic2));
         list.add(new Person("Leilah Grishkov","Tratamento","A-","Hemoba",R.drawable.pic6));
         list.add(new Person("Carlyn Selbie","Problema renal","B+","Hemoba",R.drawable.pic7));
 //        list.add(new Person("Neill Monsey","Tratamento","AB+","Hemoce",R.drawable.pic8));

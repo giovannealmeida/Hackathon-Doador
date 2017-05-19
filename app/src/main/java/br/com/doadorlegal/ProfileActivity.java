@@ -55,7 +55,7 @@ public class ProfileActivity extends AppCompatActivity {
                 Intent i = new Intent(Intent.ACTION_SEND);
                 i.setType("text/plain");
                 i.putExtra(Intent.EXTRA_SUBJECT, "Sharing URL");
-                i.putExtra(Intent.EXTRA_TEXT, p.getName()+" precisa de sua ajuda. :) \n\nhttp://doelegal.com");
+                i.putExtra(Intent.EXTRA_TEXT, p.getName()+" precisa de sua ajuda. :) \n\nhttp://doe.me/8G32DS9GH");
                 startActivity(Intent.createChooser(i, "Compartilhar URL"));
             }
         });

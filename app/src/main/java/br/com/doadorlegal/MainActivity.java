@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 //            showFragment(MapFragment.newInstance());
             showFragment(new MapFragment());
         } else if (id == R.id.nav_cartilha) {
-            getSupportActionBar().setTitle("Cartilha");
+            getSupportActionBar().setTitle("Posso doar?");
             showFragment(ChartFragment.newInstance());
         } else if (id == R.id.nav_account_settings) {
 
